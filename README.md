@@ -15,3 +15,5 @@ A UVV contratou a turma de Programação Avançada para WEB para desenvolver um 
 
 Observem que as rotas para o acesso às telas já foram especificadas. 
 
+# Nota de rodapé: Quando executei o NPM install no computador da UVV, subiu um erro no moduleResolution em /tsconfig.json, talvez seja necessário mudar ele de "bundler" para "node".
+
